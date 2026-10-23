@@ -134,6 +134,18 @@ A companion mini-bot project with its own web presence.
 
 ---
 
+---
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/subhanmdofficial/subhanmdofficial/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
 ## 🎯 What I'm Working On
 
 - [x] Starting real-world bot projects
