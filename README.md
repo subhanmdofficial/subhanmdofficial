@@ -1,112 +1,155 @@
-<!-- ⚠️ Replace YOUR-USERNAME everywhere in this file with your actual GitHub username -->
+from pathlib import Path
 
-<div align="center">
+readme = r'''<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=220&section=header&text=M%20SUBHAN%20ALI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Bot%20Developer%20%7C%20Full%20Stack%20Developer%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050505,25:18002D,60:5700A8,100:00FF88&text=SUBHAN%20X%20MD&fontSize=60&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&stroke=00FF88&strokeWidth=1" width="100%" alt="Animated SUBHAN X MD banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FF3131&center=true&vCenter=true&width=700&lines=HI+%F0%9F%91%8B+I'M+M+SUBHAN+ALI+%F0%9F%87%B5%F0%9F%87%B0;SELF+TAUGHT+DEVELOPER+FROM+PAKISTAN;FOUNDER+OF+SUBHAN-MD;300%2B+POWERFUL+WHATSAPP+BOT+COMMANDS;BOT+DEVELOPER+%7C+WEB+DEVELOPER" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&duration=1800&pause=600&color=00FF88&center=true&vCenter=true&width=700&lines=M+SUBHAN+ALI+%E2%9A%A1;SELF-TAUGHT+DEVELOPER+FROM+PAKISTAN;WHATSAPP+BOT+CREATOR+%F0%9F%A4%96;BUILDING+SUBHAN-MD+%F0%9F%9A%80;CODE.+CREATE.+IMPROVE.+REPEAT." alt="Animated name and introduction"/>
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=subhanmdofficial&color=8B0000&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/subhanmdofficial?style=for-the-badge&color=8B0000&labelColor=000000)
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=subhanmdofficial&label=PROFILE%20VIEWS&color=00ff88&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/subhanmdofficial?label=FOLLOWERS&style=for-the-badge&color=7b2fff" alt="GitHub followers"/>
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="Open source"/>
+
+**ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴅɪɢɪᴛᴀʟ ᴡᴏʀʟᴅ**
+
+*ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛꜱ · ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ · ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ*
 
 </div>
 
-<br>
+---
 
-## 🔴 About Me
+## ᴍʏ ᴘʀᴏꜰɪʟᴇ
 
-```json
-{
-  "name"        : "M Subhan Ali",
-  "location"    : "Pakistan 🇵🇰",
-  "role"        : ["Bot Developer", "Full Stack Developer"],
-  "founder_of"  : "SUBHAN-MD 🔴",
-  "project"     : "Advanced WhatsApp Bot with 300+ Powerful Commands",
-  "self_taught" : true,
-  "mission"     : "Build it. Break it. Ship it. 🚀"
-}
+```js
+const subhan = {
+  name: "Muhammad Subhan Ali",
+  alias: "M SUBHAN ALI",
+  country: "Pakistan 🇵🇰",
+  role: ["Self-Taught Developer", "Bot Creator"],
+  interests: ["WhatsApp Bots", "Web Development", "JavaScript"],
+  mainProject: "SUBHAN-MD",
+  mindset: "Learn • Build • Improve"
+};
+
+console.log("Welcome to my GitHub! 🚀");
 ```
 
-- 🔴 **Founder of SUBHAN-MD** — an advanced multi-device WhatsApp bot with **300+ powerful commands**
-- 💻 **Bot Developer** — Node.js, Baileys, plugin-based architectures
-- 🌐 **Web Developer** — building fast, animated, modern frontends
-- ⚡ **Self-taught** — learned everything by building real projects
-- 🇵🇰 Proudly from **Pakistan**
+- 🤖 Building WhatsApp bot projects and useful tools.
+- 🌐 Learning and creating web experiences.
+- 🧩 Exploring plugins, automation and JavaScript.
+- 🚀 Improving one project at a time.
 
-<br>
+---
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp%20Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-
-</div>
-
-<br>
-
-## 📊 GitHub Analytics
+## ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ ɪ ᴜꜱᴇ
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=subhanmdofficial&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF3131&text_color=ffffff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhanmdofficial&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF3131&text_color=ffffff" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,vercel,linux&theme=dark&perline=5" width="90%" alt="Technology icons"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=subhanmdofficial&theme=dark&hide_border=true&background=0D1117&ring=FF3131&fire=FF3131&currStreakLabel=FF3131" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/WHATSAPP%20BOTS-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp bots"/>
+<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-7B2FFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web development"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 
 </div>
 
-<br>
+---
 
-## 🏆 Trophies
+## ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=subhanmdofficial&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
+<a href="https://github.com/subhanmdofficial/subhan-md">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=subhanmdofficial&repo=subhan-md&theme=tokyonight&hide_border=true&bg_color=080808&title_color=00FF88&icon_color=7B2FFF" alt="SUBHAN-MD repository card"/>
+</a>
+
+<a href="https://subhanxmd.vercel.app/">
+<img src="https://img.shields.io/badge/SUBHAN%20MINI%20BOT-OPEN%20WEBSITE-7B2FFF?style=for-the-badge&logo=vercel&logoColor=white" alt="SUBHAN MINI BOT website"/>
+</a>
 
 </div>
 
-<br>
+### 🤖 SUBHAN-MD
 
-## 🐍 Contribution Snake
+A WhatsApp bot project focused on command-based interactions, automation and multi-device features.
+
+- ⚡ Command-based features
+- 🧩 Plugin-focused development
+- 🛠️ Customizable codebase
+
+**[↗ View source code](https://github.com/subhanmdofficial/subhan-md)**
+
+### 🌐 SUBHAN MINI BOT
+
+A companion mini-bot project with its own web presence.
+
+**[↗ Visit website](https://subhanxmd.vercel.app/)**
+
+---
+
+## ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/subhanmdofficial/subhanmdofficial/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=subhanmdofficial&show_icons=true&hide_border=true&bg_color=080808&title_color=00FF88&icon_color=7B2FFF&text_color=FFFFFF&rank_icon=github" width="95%" alt="GitHub statistics"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhanmdofficial&layout=compact&hide_border=true&bg_color=080808&title_color=00FF88&text_color=FFFFFF" width="80%" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=subhanmdofficial&hide_border=true&background=080808&ring=00FF88&fire=FF3355&currStreakLabel=00FF88&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="95%" alt="Contribution streak"/>
 
 </div>
 
-> ⚠️ Snake animation needs a one-time GitHub Action setup — see `snake.yml` file below. Ye khud se generate nahi hota, workflow chalana padega.
+---
 
-<br>
-
-## 🔗 Connect With Me
+## ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ᴀᴄᴛɪᴠɪᴛʏ
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subhanmdofficial)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@subhanxmd)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/msubhanali0)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhanmdofficial&bg_color=080808&color=00FF88&line=7B2FFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=subhanmdofficial&theme=discord&no-frame=true&no-bg=true&margin-w=5&row=1" width="100%" alt="GitHub trophies"/>
 
 </div>
 
-<br>
+---
+
+## ᴡʜᴀᴛ ɪ'ᴍ ᴡᴏʀᴋɪɴɢ ᴏɴ
+
+- [x] Starting real-world bot projects
+- [x] Exploring web development
+- [ ] Improving JavaScript skills
+- [ ] Building more useful developer tools
+- [ ] Learning and shipping consistently
+
+---
+
+## ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ
 
 <div align="center">
 
-### ⭐ "Build it. Break it. Ship it." ⭐
+<a href="https://github.com/subhanmdofficial"><img src="https://img.shields.io/badge/GITHUB-FOLLOW%20ME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://t.me/subhanmd_BOT"><img src="https://img.shields.io/badge/TELEGRAM-SUBHAN--MD%20BOT-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram bot"/></a>
+<a href="https://subhanxmd.vercel.app/"><img src="https://img.shields.io/badge/WEBSITE-SUBHAN%20MINI-00FF88?style=for-the-badge&logo=vercel&logoColor=black" alt="Website"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=120&section=footer" width="100%"/>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2200&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=THANKS+FOR+VISITING+MY+PROFILE;KEEP+LEARNING.+KEEP+BUILDING.;SEE+YOU+IN+THE+NEXT+COMMIT+%E2%9A%A1" alt="Animated closing message"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00FF88,50:30105E,100:050505" width="100%" alt="Animated footer"/>
 
 </div>
+'''
+
+path = Path("/mnt/data/README.md")
+path.write_text(readme, encoding="utf-8")
+print(f"Created {path} ({len(readme)} characters)")
